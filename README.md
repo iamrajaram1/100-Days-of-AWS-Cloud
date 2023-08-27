@@ -1,11 +1,8 @@
-## Our Journey: 100 Days of AWS Cloud 
-## _LearnCloudWithRaj_
-
 <p align="center">
-  <img src="path-to-your-profile-image.png" alt="Your Name">
+  <h1 align="center"?<em> LearnCloudWithRaj<em></h1>
+    <h1 align="center"?<em> Our Journey: 100 Days of AWS Cloud<em></h1>
+  <img src="https://github.com/iamrajaram1/iamrajaram1/blob/main/developerguy.gif" alt="Rajaram Erraguntla">
 </p>
-
-<h2 align="center"><em>LearnCloudWithRaj</em></h2>
 
 
 Join me as I embark on a transformative 100-day expedition to master AWS, starting from ground-zero to hero-level proficiency. This repository is home to my structured learning plan, hands-on exercises, and real-world projects that will empower me to harness the full potential of AWS services.
