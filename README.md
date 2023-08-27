@@ -41,10 +41,13 @@ Whether you aspire to become a cloud architect, developer, or simply want to har
 
 This repository is a personal endeavor, driven by my passion for AWS and learning. It's not officially affiliated with AWS or Amazon. Let's learn, build, and explore the cloud together!
 
-## _Ready to start? 🌩️ Let's go!_
+## Ready to start? 🌩️ Let's go! </br>
 
 
-## **100-Days-of-AWS-Cloud: Your Path from Novice to AWS Hero**
+<p align="center">
+  <h2 align="center"?<em> 100-Days-of-AWS-Cloud: Your Path from Novice to AWS Hero </em></h2></p></br>
+</p>
+
 
 
 ## Day 1: Mastering the Cloud: Unleashing the Power of Cloud Computing
