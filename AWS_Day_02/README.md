@@ -1,48 +1,68 @@
 <p align="center">
-  <h1 align="center"?<em> Day 1: Mastering the Cloud: Unleashing the Power of Cloud Computing </em></h1>
+  <h1 align="center"?<em> 🌍 Day2of 100 Days AWS Cloud Challenge- :Unveiling the AWS Global Infrastructure: Powering the Digital World! 💻 </em></h1>
   </p>
 
 
 ## What do you think, When you hear about the word ”Cloud”?
-“The Cloud” is the real place where your data is stored.
-
-Today, we will be discussing Cloud Computing. By the End of this session, you will be gain insights on below topics:
-
-1. Cloud Computing Overview
-2. Advantages of Cloud
-3. Common Cloud Terminologies
-4. Cloud Computing Models
-5. Cloud Deployment Models
 
 ## 1.Cloud Computing Overview:
 
 When we hear the word Cloud, Without any second thought we get into our mind is clear sky with clouds :)
 <img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/cloud.jpg" ></br>
 
-**Cloud Computing in simple terms** — Its about storing the data and accessing computers over the internet. Its not just about the storage, there are various resources in cloud. The only we interact with them using an internet connection.
+## Leveraging AWS Global Infrastructure
+Lets Breakdown the AWS global infrastructure to understand in a easiest way.
 
-## 2. Advantages of Cloud :
-We have mainly 6 advantages of using cloud and How cloud can save the money.
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Advantages_AWS_Cloud.jpg" ></br>
+**AWS Global Infrastructure** — Its a vast network of data centers and services provided by AWS in different locations across the world.
 
-## 3. Cloud terminologies :
-We will be hearing these cloud terminologies frequently in our day-to-day corporate cloud life.
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Terminologies.jpg" ></br>
+**Data Centers** are commonly known as **regions**, These are spread across various geographic areas such as North America, Asia, Europe, etc.
 
-## 4. Cloud Service Models :
 
-We have 3 computing service models knows as IaaS, PaaS and SaaS.
+**AWS Global Infrastructure**
+Now, we will learn more about what are these regions, Availability Regions, and Edge Locations.
 
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Service%20Models.jpg" ></br>
+## Regions :
+>
+In AWS there are more than 200+ services and can be launch any service or deploy an application just with few clicks. To launch any service, customer has to choose the region where the service to be launched.
 
-Now, lets understand this with an real-time hotel management booking scenario :
+Moreover, Customer prefers launching an service which is very close to the location. Because, When a customer is near to Mumbai Area, the internet connectivity will be easy and Latency will lesser due to shortest distance. In case if customer is launching an service for an application in different region, the latency will be more to access data for customers. The Request and response will take time to serve the users request.
 
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Service%20Models-example.jpg" ></br>
+Region Means its a physical location across the globe where we cluster data centers.
 
-## 5. Cloud Deployment Models:
-We have mainly 3 cloud deployment models i.e.., Public Cloud, Private Cloud and Hybrid Cloud.
+> E.g.: Asia Pacific is a geographic location that contains regions like ‘Mumbai’ and ‘Hyderabad’. Each AWS Region consists of a minimum of three Availability Zones, isolated, and physically separate AZs within a geographic area.
 
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Deployment%20Models.jpg" ></br>
+
+# AWS REGION NAMES AND CODES :
+These region names and codes are used to identify easily which is the nearest location to launch the cloud resources.
+
+
+# Region Characteristics :
+All the regions are fully independent and isolated. If one Region is impacted , it wouldn't affect the other regions.
+
+
+* All these regions are isolated and resources has to be manually replicated across each of them.*
+
+**AVAILABILITY ZONES:**
+In ASIA PACIFIC — we have two regions (Mumbai & Hyderabad)
+
+**Mumbai** and its region code is **“ap-south-1”**, for this region — there are “3 Availability zones” **(ap-south-1A, ap-south-1B, ap-south-1C)**
+**Hyderabad** and its region code is **“ap-south-2”**, for this region — there are 3 Availability zones **(ap-south-2A,ap-south-2B,ap-south-3C)**
+
+Lets, visualize where these Availability zones are located and what does it contains.
+
+As we know, in every **Region : we have minimum 3 Availability zones which are isolated**.
+
+**What do we have in Availability Zones?**
+>Region : A Geographical location which has more than two or more Availability zones.
+
+**Availability Zones :** These are the collection of Data Centers within a region. All these AZ are isolated but connected to each other.
+
+
+**Why AWS has designed of Availability Zones in region?**
+>By Designing this, AWS Provides the High Availability. In case if any of the Data centers gets failed due to Power Supply, Security or Cooling Systems or some intermittent issues. The Other Data centers can still be Available to serve the request. Also, for each Data center to data center a minimum distance of 100KMS is being maintained if any natural disaster occurs.
+
+
+**Edge Location :** End Users will be accessing AWS Services. These edge locations are located for every region to distribute the content to end users to reduce latency by caching the copy of our content using cloud Front (CDN).
 
 ## Conclusion :
-We have gained some insights about cloud computing, Advantages of Cloud Computing, Common Cloud terminologies, Cloud Computing Models, Cloud Deployment Models.
+We have learnt and gained some insights about AWS Global Infrastructure, Regions, Availability Regions, Data Centers and Edge Locations.
