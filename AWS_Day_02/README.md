@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"?<em> 🌍 Day 2of 100 Days AWS Cloud Challenge- :Unveiling the AWS Global Infrastructure: Powering the Digital World! 💻 </em></h1>
+  <h1 align="center"?<em> 🌍 Day 2 of 100 Days AWS Cloud Challenge- :Unveiling the AWS Global Infrastructure: Powering the Digital World! 💻 </em></h1>
   </p>
 
 ## Leveraging AWS Global Infrastructure
