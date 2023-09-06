@@ -59,7 +59,7 @@ Today, you're gain insights on Cloud Computing Overview , Advantages of Cloud Co
 
 we delve into the intricacies of AWS Global Infrastructure: encompassing Regions, Availability Zones, Data Centers, and the vital network of Edge Locations. Embark on a journey to understand the backbone of AWS, where worldwide accessibility and robustness converge.
 
-## Day 3: 💻 Lab-1: Unlocking the Power of the Cloud — How to Create Your AWS Account in Simple Steps! 💻
+## Day 3: 💻 Lab-1: Unlocking the Power of the Cloud — How to Create Your PROD AWS Account in Simple Steps! 💻
 
 We are diving into a crucial step in our cloud journey: creating your very own AWS account. This milestone will open the doors to a world of possibilities, empowering you to leverage the vast array of services and resources offered by Amazon Web Services. Whether you’re an aspiring cloud professional, a startup entrepreneur, or simply eager to explore the potential of the cloud, creating an AWS account is the first step towards harnessing the transformative power of this leading cloud platform. 
 
