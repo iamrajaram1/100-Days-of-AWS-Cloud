@@ -1,8 +1,11 @@
 <p align="center">
   <h1 align="center"?<em> DAY -3 : Lab-1: Unlocking the Power of the Cloud — How to Create Your PROD AWS Account in Simple Steps!  </em></h1>
-  </p>
+   
+</p>
 
 **Title: "Embark on Your Cloud Odyssey: Creating Your First AWS Account"**
+
+<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day_03/CREATE%20AWS%20ACCOUNT%20IN%205%20STEPS-L.gif">
 
 **Introduction:**
 Welcome to the beginning of your cloud computing journey! **Amazon Web Services (AWS)** is your passport to the limitless possibilities of the cloud. In this step-by-step guide, we'll show you how to create your very first AWS account—a pivotal moment in your quest for digital transformation.
