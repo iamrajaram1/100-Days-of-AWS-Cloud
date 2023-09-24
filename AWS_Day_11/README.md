@@ -1,48 +1,25 @@
 <p align="center">
-  <h1 align="center"?<em> Day 1: Mastering the Cloud: Unleashing the Power of Cloud Computing </em></h1>
+  <h1 align="center"?<em> Day 11: AWS Key Management Service (KMS) </em></h1>
   </p>
 
 
-## What do you think, When you hear about the word ”Cloud”?
-“The Cloud” is the real place where your data is stored.
+## Do you want to master on Data Security : AWS Key Management Service (KMS) | Elevate Your Cloud Security!
 
-Today, we will be discussing Cloud Computing. By the End of this session, you will be gain insights on below topics:
+AWS Key Management Service (KMS) is a tool that helps keep your data safe in the cloud. It lets you create and manage special codes (keys) that protect your important (PII) information.
 
-1. Cloud Computing Overview
-2. Advantages of Cloud
-3. Common Cloud Terminologies
-4. Cloud Computing Models
-5. Cloud Deployment Models
+<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day_11/KMS.gif" ></br>
 
-## 1.Cloud Computing Overview:
+KMS also makes sure that only the right people can access your data. It’s like having a secure lock for your digital stuff, making sure it stays safe and private.
 
-When we hear the word Cloud, Without any second thought we get into our mind is clear sky with clouds :)
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/cloud.jpg" ></br>
 
-**Cloud Computing in simple terms** — Its about storing the data and accessing computers over the internet. Its not just about the storage, there are various resources in cloud. The only we interact with them using an internet connection.
+## 💡 Plan of Execution
 
-## 2. Advantages of Cloud :
-We have mainly 6 advantages of using cloud and How cloud can save the money.
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Advantages_AWS_Cloud.jpg" ></br>
+1️⃣ Sign in to AWS Console </br>
+2️⃣ Select the region </br>
+3️⃣ Access the AWS KMS Service </br>
+4️⃣ Create a New KMS Key </br>
+5️⃣ Choose Key Creation Options </br>
+6️⃣ Review and Confirm </br>
 
-## 3. Cloud terminologies :
-We will be hearing these cloud terminologies frequently in our day-to-day corporate cloud life.
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Terminologies.jpg" ></br>
-
-## 4. Cloud Service Models :
-
-We have 3 computing service models knows as IaaS, PaaS and SaaS.
-
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Service%20Models.jpg" ></br>
-
-Now, lets understand this with an real-time hotel management booking scenario :
-
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Service%20Models-example.jpg" ></br>
-
-## 5. Cloud Deployment Models:
-We have mainly 3 cloud deployment models i.e.., Public Cloud, Private Cloud and Hybrid Cloud.
-
-<img src="https://github.com/iamrajaram1/100-Days-of-AWS-Cloud/blob/main/AWS_Day1/Cloud%20Deployment%20Models.jpg" ></br>
-
-## Conclusion :
-We have gained some insights about cloud computing, Advantages of Cloud Computing, Common Cloud terminologies, Cloud Computing Models, Cloud Deployment Models.
+## 🥳 conclusion
+In summary, creating a KMS key in AWS is a fundamental step to enhance data security. By following the outlined plan, we have establish a secure foundation for encryption and access control, ensuring the protection of sensitive information. This KMS key can be seamlessly integrated into various AWS services, strengthening your overall cloud security posture.
